@@ -8,5 +8,5 @@
 - [ ] [James Sinclair](https://jrsinclair.com/)
 - [ ] [Bartosz Milewski](https://www.youtube.com/@DrBartosz)
 - [ ] [Mostly Adequate Guide](https://mostly-adequate.gitbook.io/mostly-adequate-guide/)
-- [ ] Брагилевский
+- [ ] [Брагилевский. Теория Категорий](https://www.youtube.com/watch?v=gpifdHvtr0k&list=PLvPsfYrGz3wsX3Z5KuuEVYhijDxhKCDDD&index=1)
 - [ ] [Сошников. Лекции о fp](https://www.youtube.com/watch?v=AbDqKlVP3V4&list=PLDrmKwRSNx7LMu3Rd3BNVU6SuOPYbCiRP)
